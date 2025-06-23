@@ -1,0 +1,257 @@
+  [
+  {
+    "city": "Mumbai",
+    "hotels": [
+      {
+        "img":"https://cf.bstatic.com/xdata/images/hotel/max1024x768/103705059.jpg?k=9e078265b31ad1815a573da8ed2a665f863e3925e1efd730df703421868a2ada&o=&hp=1",
+        "id": 1,
+        "name": "Taj Mahal Palace",
+        "rooms": [
+          { "type": "double", "price": 3500 }
+        ]
+      },
+      {
+        "img":"https://www.hotelscombined.com/rimg/himg/45/f6/e5/expedia_group-76334-58d072eb-393830.jpg?width=968&height=607&crop=true",
+        "id": 2,
+        "name": "Trident",
+        "rooms": [
+          { "type": "single", "price": 1800,"bedType": "single", "guests": 1  },
+          { "type": "double", "price": 3200 ,"bedType": "double", "guests": 2 }
+        ]
+      }
+    ]
+  },
+  {
+  
+    "city": "Delhi",
+    "hotels": [
+      {
+          "img":"https://static.toiimg.com/photo/51107660/.jpg",
+        "id": 3,
+        "name": "The Leela Palace",
+        "rooms": [
+          { "type": "single", "price": 2500 ,"bedType": "single", "guests": 1 },
+          { "type": "double", "price": 4000 ,"bedType": "double", "guests": 2 }
+        ]
+      }
+    ]
+  },
+  {
+    "city": "Bengaluru",
+    "hotels": [
+      {
+        "img":"https://www.momondo.com/himg/e3/b0/1b/leonardo-14453-150669325-104651.jpg",
+        "id": 4,
+        "name": "The Oberoi",
+        "rooms": [
+          { "type": "single", "price": 2200 ,"bedType": "single", "guests": 1 },
+          { "type": "double", "price": 3700 ,"bedType": "double", "guests": 2 }
+        ]
+      },
+      {
+        "img":"https://static.toiimg.com/photo/51090387.cms",
+        "id": 5,
+        "name": "ITC Gardenia",
+        "rooms": [
+          { "type": "single", "price": 2100 ,"bedType": "single", "guests": 1 },
+          { "type": "double", "price": 3600 ,"bedType": "double", "guests": 2 }
+        ]
+      }
+    ]
+  },
+  {
+    "city": "Chennai",
+    "hotels": [
+      {
+        "img":"https://content.r9cdn.net/himg/8a/3b/74/expedia_group-5548507-1daaf5-564522.jpg",
+        "id": 6,
+        "name": "Le Royal Meridien",
+        "rooms": [
+          { "type": "single", "price": 1900 ,"bedType": "single", "guests": 1 },
+          { "type": "double", "price": 3100 ,"bedType": "double", "guests": 2 }
+        ]
+      }
+    ]
+  },
+  {
+    "city": "Kolkata",
+    "hotels": [
+      {
+        "img":"https://cf.bstatic.com/xdata/images/hotel/max1024x768/495359875.jpg?k=8faf2cae0c79cb7580b0bf5e6f3eadd34fb938bea7542d4aff9f19eb754ff39e&o=&hp=1",
+        "id": 7,
+        "name": "The Park Kolkata",
+        "rooms": [
+          { "type": "single", "price": 1700 ,"bedType": "single", "guests": 1 },
+          { "type": "double", "price": 2900 ,"bedType": "double", "guests": 2 }
+        ]
+      },
+      {
+        "img":"https://static.toiimg.com/photo/47925578/.jpg",
+        "id": 8,
+        "name": "Taj Bengal",
+        "rooms": [
+          { "type": "single", "price": 2000 ,"bedType": "single", "guests": 1 },
+          { "type": "double", "price": 3300 ,"bedType": "double", "guests": 2 }
+        ]
+      }
+    ]
+  },
+  {
+    "city": "Hyderabad",
+    "hotels": [
+      {
+        "img":"https://www.telegraph.co.uk/content/dam/Travel/hotels/asia/india/the-roseate-new-delhi-india-hotel-p.jpg",
+        "id": 9,
+        "name": "Novotel Hyderabad",
+        "rooms": [
+          { "type": "single", "price": 1850 ,"bedType": "single", "guests": 1 },
+          { "type": "double", "price": 3050 ,"bedType": "double", "guests": 2 }
+        ]
+      }
+    ]
+  },
+  {
+    "city": "Pune",
+    "hotels": [
+      {
+        "img":"https://www.hoteltheroyalplaza.com/images/room_banner_1.jpg",
+        "id": 10,
+        "name": "JW Marriott Pune",
+        "rooms": [
+          { "type": "single", "price": 2100 ,"bedType": "single", "guests": 1 },
+          { "type": "double", "price": 3400 ,"bedType": "double", "guests": 2 }
+        ]
+      }
+    ]
+  },
+  {
+    "city": "Ahmedabad",
+    "hotels": [
+      {
+        "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVISEDffxDeowllSHz8WUd9A33sbqbh6T6Gw&s",
+        "id": 11,
+        "name": "Hyatt Regency",
+        "rooms": [
+          { "type": "single", "price": 1800 ,"bedType": "single", "guests": 1 },
+          { "type": "double", "price": 3000 ,"bedType": "double", "guests": 2 }
+        ]
+      }
+    ]
+  },
+  {
+    "city": "Jaipur",
+    "hotels": [
+      {
+        "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtEUWd5hKyM3As81lMoH-ou22UdNJti-FfzQ&s",
+        "id": 12,
+        "name": "Rambagh Palace",
+        "rooms": [
+          { "type": "single", "price": 3000 ,"bedType": "single", "guests": 1 },
+          { "type": "double", "price": 5000 ,"bedType": "double", "guests": 2 }
+        ]
+      },
+      {
+        "img":"https://pimg.fabhotels.com/propertyimages/612/images/photos-fabhotel-bmk-grand-new-delhi-Hotels_1658904504397.jpg",
+        "id": 13,
+        "name": "ITC Rajputana",
+        "rooms": [
+          { "type": "single", "price": 2000 ,"bedType": "single", "guests": 1 },
+          { "type": "double", "price": 3400 ,"bedType": "double", "guests": 2 }
+        ]
+      }
+    ]
+  },
+  {
+    "city": "Goa",
+    "hotels": [
+      {
+        "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbOekvEt_HiXISiGv7bLfBENzmvInoyUgrwQ&s",
+        "id": 14,
+        "name": "Taj Exotica",
+        "rooms": [
+          { "type": "single", "price": 2800 ,"bedType": "single", "guests": 1 },
+          { "type": "double", "price": 4500 ,"bedType": "double", "guests": 2 }
+        ]
+      },
+      {
+        "img":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/29/10/d3/amd-reception.jpg?w=1200&h=-1&s=1",
+        "id": 15,
+        "name": "Leela Goa",
+        "rooms": [
+          { "type": "single", "price": 2600 ,"bedType": "single", "guests": 1 },
+          { "type": "double", "price": 4300 ,"bedType": "double", "guests": 2 }
+        ]
+      }
+    ]
+  },
+  {
+    "city": "Shimla",
+    "hotels": [
+      {
+        "img":"https://htl-img-res-new.s3.ap-south-1.amazonaws.com/6706/20240902/3.jpg",
+        "id": 16,
+        "name": "Wildflower Hall",
+        "rooms": [
+          { "type": "single", "price": 2400 ,"bedType": "single", "guests": 1 },
+          { "type": "double", "price": 3900 ,"bedType": "double", "guests": 2 }
+        ]
+      }
+    ]
+  },
+  {
+    "city": "Udaipur",
+    "hotels": [
+      {
+        "img":"https://rukmini-ct.flixcart.com/w_2048,f_auto,q_auto/ct-hotel-images/places/hotels/cms/5222/52225/images/3b83e93c_z_proc.jpg",
+        "id": 17,
+        "name": "Taj Lake Palace",
+        "rooms": [
+          { "type": "single", "price": 3200 ,"bedType": "single", "guests": 1 },
+          { "type": "double", "price": 5500 ,"bedType": "double", "guests": 2 }
+        ]
+      }
+    ]
+  },
+  {
+    "city": "Manali",
+    "hotels": [
+      {
+        "img":"https://images.trvl-media.com/lodging/6000000/5450000/5440800/5440709/1b8e1480.jpg?impolicy=fcrop&w=357&h=201&p=1&q=medium",
+        "id": 18,
+        "name": "Snow Valley Resort",
+        "rooms": [
+          { "type": "single", "price": 1600 ,"bedType": "single", "guests": 1 },
+          { "type": "double", "price": 2800 ,"bedType": "double", "guests": 2 }
+        ]
+      }
+    ]
+  },
+  {
+    "city": "Varanasi",
+    "hotels": [
+      {
+        "img":"https://htl-img-res-new.s3.ap-south-1.amazonaws.com/6218/20240528/main.jpg",
+        "id": 19,
+        "name": "BrijRama Palace",
+        "rooms": [
+          { "type": "single", "price": 2100 ,"bedType": "single", "guests": 1 },
+          { "type": "double", "price": 3700 ,"bedType": "double", "guests": 2 }
+        ]
+      }
+    ]
+  },
+  {
+    "city": "Rishikesh",
+    "hotels": [
+      {
+        "img":"https://www.chardhamtours.in/gallery/hotelImage/1426936973_1ganga%202.jpg",
+        "id": 20,
+        "name": "Ganga Kinare",
+        "rooms": [
+          { "type": "single", "price": 1700 ,"bedType": "single", "guests": 1 },
+          { "type": "double", "price": 2900 ,"bedType": "double", "guests": 2 }
+        ]
+      }
+    ]
+  }
+]
